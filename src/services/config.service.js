@@ -19,4 +19,3 @@ const getConfigByKey = (key) => {
 }
 
 module.exports = {getConfig, getConfigByKey};
-
